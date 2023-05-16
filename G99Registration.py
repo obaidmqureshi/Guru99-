@@ -1,0 +1,13 @@
+First_name_text_box =   "xpath://tbody/tr[2]/td[2]/input[1]"
+Last_name_text_box  =   "xpath://tbody/tr[3]/td[2]/input[1]"
+Phone_no_text_box   =   "xpath://tbody/tr[4]/td[2]/input[1]"
+Email_id_text_box   =   "xpath://input[@id='userName']"
+Address_text_box    =   "xpath://tbody/tr[7]/td[2]/input[1]"
+City_text_box       =   "xpath://html[1]/body[1]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[5]/td[1]/form[1]/table[1]/tbody[1]/tr[8]/td[2]/input[1]"
+State_province_text_box = "xpath://tbody/tr[9]/td[2]/input[1]"
+Postal_code_text_box    = "xpath://tbody/tr[10]/td[2]/input[1]"
+Country_drop_down_box   = "xpath://tbody/tr[11]/td[2]/select[1]"
+User_Name_text_box      = "xpath://input[@id='email']"
+Password_text_box       = "xpath://tbody/tr[14]/td[2]/input[1]"
+Confirm_pwd_text_box    = "xpath://tbody/tr[15]/td[2]/input[1]"
+Submit_button           =   'name:submit'
